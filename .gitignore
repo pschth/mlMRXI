@@ -1,0 +1,17 @@
+# temporary matlab files
+*.m~
+*.asv
+
+# parallelization files
+*file:%*
+
+# matlab2tikz files and folders
+*.m2t
+
+*.mat
+*.csv
+*.tex
+
+auxiliary/external/
+experimental_data/
+projects/example_projects/example_P*
